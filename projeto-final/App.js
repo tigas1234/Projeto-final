@@ -117,7 +117,7 @@ await db.runAsync(
   return (
     <View style={styles.container}>
       <Text style={styles.titulo}>
-        Controle de Estoque
+        Endereço de entrega
       </Text>
 
       <TextInput
